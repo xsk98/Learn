@@ -1,0 +1,17 @@
+Index: file1.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Helloy gayll!\ni obdaqchy\nвфывфывфывыфвфывыфвфывфвф\nвфывфывфывфыв
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/file1.txt b/file1.txt
+--- a/file1.txt	
++++ b/file1.txt	
+@@ -1,4 +1,5 @@
+ Helloy gayll!
+ i obdaqchy
++вфывфывфывфывфывфы
+ вфывфывфывыфвфывыфвфывфвф
+ вфывфывфывфыв
+\ No newline at end of file
